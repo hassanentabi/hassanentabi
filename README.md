@@ -7,10 +7,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/hassanentabi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="hassanentabi" height="30" width="40" background-color ="#0e76a8" /></a>
-<a href="https://stackoverflow.com/users/7939615/hassan-entabi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="7939615/hassan-entabi" height="30" width="40" background-color ="#ef8236"  /></a>
-<a href="https://fb.com/hassan.entabi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="hassan.entabi" height="30" width="40" background-color ="#3b5998" /></a>
-<a href="https://instagram.com/hassan.entabi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="hassan.entabi" height="30" width="40"  background-color ="#8a3ab9"/></a>
+<a href="https://linkedin.com/in/hassanentabi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="hassanentabi" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/7939615/hassan-entabi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="7939615/hassan-entabi" height="30" width="40"  /></a>
+<a href="https://fb.com/hassan.entabi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="hassan.entabi" height="30" width="40"  /></a>
+<a href="https://instagram.com/hassan.entabi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="hassan.entabi" height="30" width="40"  /></a>
 </p>
 
 
