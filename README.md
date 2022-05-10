@@ -10,3 +10,9 @@
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hassanentabi&show_icons=true)
 
+### Want to support?
+ 
+Do you find my work to be of a value for you?
+You can buy me a **Book**, or **Coffee**. 
+
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/hassanentabi)
