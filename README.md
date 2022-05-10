@@ -8,6 +8,10 @@
 + 😄 Pronouns: he/him
 
 
+  #### Find me on
+  [!["LinkedIn"](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/hassanentabi/)
+
+
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hassanentabi&show_icons=true)
 
 ### Want to support?
