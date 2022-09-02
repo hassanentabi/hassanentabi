@@ -1,5 +1,8 @@
-<h1 >Hi there 👋, I'm Hassan entabi</h1>
+<h1 >Hi there 👋, I'm Hassan Entabi</h1>
 <h4 >I'm a Software Enginner / Developer 👨🏻‍💻 who loves building and developing applications and websites 🖥️. I'd love to combine my passion for programming and learning with my software engineering skills to continue building 🧑‍💻 more personalized applications and websites for people . I have a passion to learn everything new ❤ ✨</h4>
+
+
+<img align="right" alt="Coding" width="400" src="programing.gif">
 
 + 🔭 I'm an Android developer
 + 🌱 I'm currently learning [Dart](https://dart.dev/) and [Flutter](https://flutter.dev/)
